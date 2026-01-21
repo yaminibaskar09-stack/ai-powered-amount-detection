@@ -62,6 +62,11 @@ http://127.0.0.1:8000
 Open in browser:
 http://127.0.0.1:8000/docs
 
+#Public Demo Using ngrok
+ngrok http 8000
+Use the generated HTTPS URL for submission.
+
+
 API Endpoints
 #Text-based Amount Detection
 
